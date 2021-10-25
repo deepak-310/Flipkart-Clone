@@ -1,10 +1,6 @@
-This is flipkart clone using react js 
-
+<h2>This is flipkart clone using react js </h2>
 <a href="https://flipkart-clone-one.vercel.app/"><button>Demon</button></a>
 <img src="https://user-images.githubusercontent.com/90319891/138674795-2dbba793-a1dc-4411-923d-258389250fea.png">
-
-for demon:-https://flipkart-clone-one.vercel.app/
-![image](https://user-images.githubusercontent.com/90319891/138674795-2dbba793-a1dc-4411-923d-258389250fea.png)
 
 ![image](https://user-images.githubusercontent.com/90319891/138674847-387a09bc-1c5c-4273-902f-ac2b889f4fbf.png)
 
